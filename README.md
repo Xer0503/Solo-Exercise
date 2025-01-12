@@ -1,2 +1,2 @@
-# Solo-Exercise
+# Solo-Exercise-JS
 Day 2
